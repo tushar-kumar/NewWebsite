@@ -1,7 +1,14 @@
-.p,.h1{
-background:black;
-}
-.body
+p,h1
 {
-background:gray;
+  color: white;
+  text-align: center;
 }
+body
+{
+  background-color: lightblue;
+}
+.container
+{
+  background-color: green;
+}
+  
