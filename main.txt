@@ -6,6 +6,8 @@ Create a .html file for website first.
 Add
 More
 Here
-.
+
+index.html added
+index.css added
 .
 .
